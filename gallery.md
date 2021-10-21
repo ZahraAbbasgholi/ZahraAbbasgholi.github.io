@@ -33,5 +33,5 @@ gallery:
     title: "Image 6 title caption"
 ---
 
-{% include gallery caption="They are my Vitray." %}
+{% include gallery caption="These are my Vitrays." %}
 
