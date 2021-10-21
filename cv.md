@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /EDU/
+permalink: /cv/
 title: Education
 tags: [Education]
 modified: 4-14-2019
