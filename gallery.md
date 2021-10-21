@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /gallery/
-title: My Vitray
+title: My Vitrays
 tags: [gallery , Vitray]
 modified: 9-14-2019
 comments: false
