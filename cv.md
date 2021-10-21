@@ -10,4 +10,4 @@ comments: false
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2021 |2024| **BS**, Computer Engineering, Iran University of Science and Technology, Tehran, Iran               |
+|2021 |2024| Computer Engineering, Iran University of Science and Technology, Tehran, Iran               |
