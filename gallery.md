@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
     title: "Image 6 title caption"
-  - url: /assets/images/6.jpg
+  - url: /assets/images/7.jpg
     image_path: /assets/images/7.jpg
     alt: "placeholder image 7"
     title: "Image 7 title caption"
