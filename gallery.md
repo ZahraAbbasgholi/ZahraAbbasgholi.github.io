@@ -7,8 +7,7 @@ tags: [gallery , Vitray]
 modified: 9-14-2019
 comments: false
 gallery:
-  # - url: /assets/images/1.jpg
-  - url: https://zahraabbasgholi.github.io/
+  - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
